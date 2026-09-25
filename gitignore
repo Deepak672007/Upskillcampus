@@ -1,0 +1,28 @@
+# Arduino / C++ build files
+*.d
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.out
+
+# Build directories
+build/
+Build/
+build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
